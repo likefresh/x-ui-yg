@@ -1,3 +1,4 @@
 ```
-bash <(wget -qO- https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh 2> /dev/null)
+bash <(wget -qO- https://gitlab.com/likefresh/x-ui-yg/blob/main/X-ui.sh 2> /dev/null)
 ```
+
